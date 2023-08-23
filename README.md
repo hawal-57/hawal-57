@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hawal-57
 - 👀 I’m interested in internet und Sport
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning IT 
+- 💞️ I’m looking to collaborate on with my class
+- 📫 How to reach me hawalsaid8@gmail.com
 
 <!---
 hawal-57/hawal-57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
